@@ -1,2 +1,2 @@
-# Demo-Repo
-Demo repo for github intro
+## Demo-Repo
+This is a readme file
