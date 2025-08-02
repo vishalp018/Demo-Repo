@@ -9,4 +9,4 @@ learning git bash and linux commands<br>
 .we can use git command line tool or can can  use github gui application for it.<br>
 we can use wsl for linux ..wsl if for window sub system linux.
 <br>
-this repo will guide and help in git repo maintaining
+this repo will guide and help in git repo maintaining and merging and branching
